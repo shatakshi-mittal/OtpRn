@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100762245210",
+    "project_id": "otp-verification-cd06d",
+    "storage_bucket": "otp-verification-cd06d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100762245210:android:57517999cfb74060dbe063",
+        "android_client_info": {
+          "package_name": "com.testmovie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb548MwK0Ied10SqJLwbOdoBeGmeHag1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
